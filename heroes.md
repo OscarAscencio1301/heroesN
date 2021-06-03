@@ -7,3 +7,7 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Flash
+* Thor
+* Hulk
+*
